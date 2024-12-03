@@ -1,7 +1,7 @@
-# Superstore Sales Analysis - Power BI Report
+# Finance Data Analysis - Power BI Report
 
 ## Overview
-This **Power BI report** analyzes the **Superstore dataset**, providing interactive and insightful visualizations for exploring sales, profit, and product performance. The report highlights key trends, product analysis, and customer behavior to facilitate data-driven decision-making. 
+This **Power BI report** analyzes the **Finance dataset**, providing interactive and insightful visualizations for exploring sales, profit, and product performance. The report highlights key trends, product analysis, and customer behavior to facilitate data-driven decision-making. 
 
 ## Dashboard Features
 - **Sales Analysis**: Visualizes **sales trends** by country, product, and segment, helping to identify top-performing regions and categories.
@@ -27,9 +27,9 @@ The following visualizations were used in the creation of the dashboard:
 ## Dashboard Pages
 The report is divided into multiple interactive pages, each focusing on different aspects of the data:
 
-- **Page 1: Superstore Sales Analysis**
+- **Page 1: Finance Data Analysis**
 
-![Main](https://github.com/user-attachments/assets/11f6abaf-72a4-4bbf-b4c2-3f8809b1dee7)
+![Main](https://github.com/user-attachments/assets/eb98b801-2f9b-4676-b0bb-db1c71fd3d7e)
 
   
   - **Overview of sales performance** by country, product, and segment.
@@ -37,14 +37,11 @@ The report is divided into multiple interactive pages, each focusing on differen
   - **Trend analysis** using line charts, showcasing sales by year and month.
   - **Profit by country** and **units sold by product** with animated visuals.
 
+- **Page 2: Key Influencers and Summary**
+
+![KeyInfluencersAndSummary](https://github.com/user-attachments/assets/297b1a65-1415-4e42-a1f9-e926659acb17)
 
 
-   
- **Page 2: Key Influencers and Summary**
-
-![KeyInfluencersAndSummary](https://github.com/user-attachments/assets/faa4e10a-0bfb-49fa-8006-c5a06474d0b4)
-
-  
   - Focuses on understanding **key factors influencing sales** such as profit and discounts.
   - **Key Influencer chart**: Shows how various factors like **sum of profit** and **sum of discounts** impact **sales**.
   - Provides insights into significant sales spikes and dips and their correlation with external factors.
@@ -57,7 +54,7 @@ The report is divided into multiple interactive pages, each focusing on differen
 - **Product Analysis**: **Paseo** and **Velo** were top-selling products, showing a strong market demand.
 
 ## Dataset
-The dataset used in this report is the **Superstore dataset**, a sample dataset commonly used for business analytics. It contains transactional data from a fictional retail company, which is used for sales, profit, and product analysis. 
+The dataset used in this report is the **Finance dataset**, a sample dataset commonly used for business analytics. It contains transactional data from a fictional retail company, which is used for sales, profit, and product analysis. 
 
 The dataset includes information related to **sales**, **profits**, **discounts**, **units sold**, and **customer segments**, providing insights into the performance of various products and regions.
 
@@ -74,5 +71,5 @@ For any inquiries or feedback, feel free to reach out:
 - **LinkedIn**: [Faizan Khan](https://www.linkedin.com/in/faizan-khan-399a47205/)
 - **GitHub**: [Faizan-Khan1401700](https://github.com/Faizan-Khan1401700)
 
+---
 
-------
