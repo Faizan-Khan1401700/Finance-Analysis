@@ -29,23 +29,26 @@ The report is divided into multiple interactive pages, each focusing on differen
 
 - **Page 1: Finance Data Analysis**
 
-![Main](https://github.com/user-attachments/assets/eb98b801-2f9b-4676-b0bb-db1c71fd3d7e)
+![Main](https://github.com/user-attachments/assets/5501944c-893c-4c8e-9f31-4a1f44584f90)
+
 
   
-  - **Overview of sales performance** by country, product, and segment.
-  - **KPI metrics** to track total sales, profit, and units sold.
-  - **Trend analysis** using line charts, showcasing sales by year and month.
-  - **Profit by country** and **units sold by product** with animated visuals.
+  1. **Overview of sales performance** by country, product, and segment.
+  2. **KPI metrics** to track total sales, profit, and units sold.
+  3. **Trend analysis** using line charts, showcasing sales by year and month.
+  4. **Profit by country** and **units sold by product** with animated visuals.
+
+
 
 - **Page 2: Key Influencers and Summary**
 
 ![KeyInfluencersAndSummary](https://github.com/user-attachments/assets/297b1a65-1415-4e42-a1f9-e926659acb17)
 
 
-  - Focuses on understanding **key factors influencing sales** such as profit and discounts.
-  - **Key Influencer chart**: Shows how various factors like **sum of profit** and **sum of discounts** impact **sales**.
-  - Provides insights into significant sales spikes and dips and their correlation with external factors.
-  - **Summary**: Presents key takeaways on sales growth, segment performance, and government influence on profit.
+  1. Focuses on understanding **key factors influencing sales** such as profit and discounts.
+  2. **Key Influencer chart**: Shows how various factors like **sum of profit** and **sum of discounts** impact **sales**.
+  3. Provides insights into significant sales spikes and dips and their correlation with external factors.
+  4. **Summary**: Presents key takeaways on sales growth, segment performance, and government influence on profit.
 
 ## Key Insights
 - **Sales Growth**: Sales increased by **167.59%** from September 2013 to December 2014.
